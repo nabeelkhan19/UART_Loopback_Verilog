@@ -1,0 +1,3 @@
+Time resolution is 1 ps
+Received = 41
+$finish called at time : 2573095 ns : File "D:/UART/Baud Rate Generator/Baud Rate Generator.srcs/sim_1/new/uart_top_tb.v" Line 64
